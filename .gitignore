@@ -1,2 +1,6 @@
 node_modules
 npm-debug.log
+npm-debug.log
+quiz.sqlite
+models/models.js
+typings
